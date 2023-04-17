@@ -16,7 +16,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
----
+
 
 ### :woman_technologist: About Me :
 I am a second-year student of the Programming Technologies Program at St. Petersburg State University
@@ -42,11 +42,10 @@ I am a second-year student of the Programming Technologies Program at St. Peters
 ---
 
 ### :chart_with_upwards_trend: My Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleo-53&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![kleo-53's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleo-53&show_icons=true)
-
+<div>
+  ![kleo-53's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleo-53&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleo-53&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **kleo-53/kleo-53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
