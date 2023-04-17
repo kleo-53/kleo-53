@@ -44,6 +44,7 @@ I am a second-year student of the Programming Technologies Program at St. Peters
 ### :chart_with_upwards_trend: My Stats:
 <div>
   ![kleo-53's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleo-53&show_icons=true)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleo-53&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
