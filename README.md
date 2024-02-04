@@ -19,7 +19,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a second-year student of the Programming Technologies Program at St. Petersburg State University
+I am a third-year student of the Programming Technologies Program at St. Petersburg State University
 
 ---
 
